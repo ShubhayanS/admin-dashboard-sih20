@@ -6908,7 +6908,7 @@ button.bg-dark:focus {
 }
 
 .bg-default {
-  background-color: #172b4d !important;
+  background-color: rgb(17,17,17) !important;
 }
 
 a.bg-default:hover,
@@ -8644,7 +8644,7 @@ button.bg-darker:focus {
 
 .mb-7,
 .my-7 {
-  margin-bottom: 6rem !important;
+  margin-bottom: 2rem !important;
 }
 
 .ml-7,
@@ -11927,12 +11927,12 @@ button.bg-darker:focus {
 
   .pt-lg-8,
   .py-lg-8 {
-    padding-top: 8rem !important;
+    padding-top: 5rem !important;
   }
 
   .pr-lg-8,
   .px-lg-8 {
-    padding-right: 8rem !important;
+    padding-right: 7rem !important;
   }
 
   .pb-lg-8,
@@ -13469,7 +13469,7 @@ button.bg-lighter:focus {
 }
 
 .bg-gradient-primary {
-  background: linear-gradient(87deg, #5e72e4 0, #825ee4 100%) !important;
+  background: linear-gradient(87deg, #F5D401 0, #F5D401 100%) !important;
 }
 
 .bg-gradient-secondary {
@@ -13501,7 +13501,7 @@ button.bg-lighter:focus {
 }
 
 .bg-gradient-default {
-  background: linear-gradient(87deg, #172b4d 0, #1a174d 100%) !important;
+  background: linear-gradient(87deg, #111111 0, #111111 100%) !important;
 }
 
 .bg-gradient-white {
@@ -13764,7 +13764,7 @@ button.section-darker:focus {
 }
 
 .bg-gradient-primary {
-  background: linear-gradient(87deg, #5e72e4 0, #825ee4 100%) !important;
+  background: linear-gradient(87deg, #F5D401 0, #F5D401 100%) !important;
 }
 
 .bg-gradient-secondary {
@@ -13796,7 +13796,7 @@ button.section-darker:focus {
 }
 
 .bg-gradient-default {
-  background: linear-gradient(87deg, #172b4d 0, #1a174d 100%) !important;
+  background: linear-gradient(87deg, #111111 0, #111111 100%) !important;
 }
 
 .bg-gradient-white {
